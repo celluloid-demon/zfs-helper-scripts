@@ -10,4 +10,4 @@
 
 ## Done
 
-- ...
+- add install-zfs
